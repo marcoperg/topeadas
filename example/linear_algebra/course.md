@@ -1,0 +1,2 @@
+- Linear Algebra. MIT OpenCourse. Gilbert Strang
+	- [link](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
