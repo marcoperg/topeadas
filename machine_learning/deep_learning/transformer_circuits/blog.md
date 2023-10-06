@@ -1,2 +1,3 @@
 - Transformer Circuits Thread
+	- Understanding transformer from the inside
 	- [link](https://transformer-circuits.pub)
