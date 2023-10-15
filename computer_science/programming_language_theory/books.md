@@ -1,0 +1,2 @@
+- E. Stoy. Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory. 1981.
+	- Recommened on Lecture 7A. Metacircular Evaluator. MIT
