@@ -1,0 +1,3 @@
+- Rob J Hyndman. Forecasting: Principles and Practice (3rd ed)
+    - Basics of forecasting and probability hacks.
+    - [link](https://otexts.com/fpp3/)
